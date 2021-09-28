@@ -157,7 +157,9 @@ footer ul li{border-style: none;}
           
             .formback {
               background-color: rgb(206, 203, 200);
-              border-radius: 7px;}
+    border-radius: 7px;
+    display: flex; 
+    justify-content: center;}
               form {
                 display: block;}
               
