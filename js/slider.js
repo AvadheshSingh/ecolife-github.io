@@ -32,7 +32,7 @@ $('.best-sellers-card').owlCarousel({
             items:2
         },
         1600:{
-            items:5
+            items:2
         }
         ,
         2200:{
@@ -60,7 +60,7 @@ $('.best-sellers-card1').owlCarousel({
             items:2
         },
         1600:{
-            items:5
+            items:2
         }
         ,
         2200:{
