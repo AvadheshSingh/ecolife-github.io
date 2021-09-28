@@ -24,11 +24,11 @@ $('.best-sellers-card').owlCarousel({
         0: {
             items: 2
         },
-        600: {
+        1000: {
             items: 3
         },
-        1000: {
-            items: 5
+        1200:{
+            items:5
         }
     }
 })
@@ -45,10 +45,13 @@ $('.best-sellers-card1').owlCarousel({
             items: 2
         },
         600: {
-            items: 3
+            items: 2
         },
         1000: {
-            items: 5
+            items: 3
+        },
+        1200:{
+            items:5
         }
     }
 })
@@ -64,12 +67,15 @@ $('.feature-products-card').owlCarousel({
             items: 1
         },
         600: {
-            items: 2
+            items: 1
         },
         700: {
-            items: 2
+            items: 1
         },
         1000: {
+            items: 1
+        },
+        1200:{
             items: 2
         }
     }
@@ -95,9 +101,13 @@ $('.feature-products-card1').owlCarousel({
             items: 2
         },
         1000: {
+            items: 1
+        },
+        1200:{
             items: 2
         }
     }
+    
 })
 
 
@@ -112,15 +122,16 @@ $('.user-list-card').owlCarousel({
             items: 1
         },
         600: {
-            items: 2
+            items: 1
         },
       
         1000: {
+            items: 1
+        },
+        
+        1200:{
             items: 2
         }
+    
     }
 })
-
-
-
-
