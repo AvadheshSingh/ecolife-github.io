@@ -29,7 +29,7 @@ $('.best-sellers-card').owlCarousel({
             items: 2
         },
         1200:{
-            items:5
+            items:2
         },
         1600:{
             items:5
@@ -57,7 +57,7 @@ $('.best-sellers-card1').owlCarousel({
             items: 2
         },
         1200:{
-            items:5
+            items:2
         },
         1600:{
             items:5
@@ -115,10 +115,10 @@ $('.feature-products-card1').owlCarousel({
             items: 2
         },
         1000: {
-            items: 2
+            items: 1
         },
         1200:{
-            items: 2
+            items: 1
         }, 1600:{
             items:2
         }
